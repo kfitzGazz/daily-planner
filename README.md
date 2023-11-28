@@ -6,7 +6,8 @@ I was motivated to build this project to improve my skills with HTML and CSS, as
 
 ## Installation
 
-Go to my git page to deploy link and test. 
+Go to my git page to deploy link and test: https://kfitzgazz.github.io/daily-planner/
+
 
 ## Usage
 
